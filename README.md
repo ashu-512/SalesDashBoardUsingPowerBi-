@@ -1,4 +1,4 @@
-<img src="https://github.com/ashu-512/SalesDashBoardUsingPowerBi-/blob/main/SalesDashBoard.png">
+<img src="SalesDashBoard.png">
   
 🍫 Chocolate Sales Dashboard – Power BI
 📌 Project Overview
