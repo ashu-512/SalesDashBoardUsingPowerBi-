@@ -1,5 +1,4 @@
 <img src="https://github.com/ashu-512/SalesDashBoardUsingPowerBi-/blob/main/SalesDashBoard.png">
-  
 🍫 Chocolate Sales Dashboard – Power BI
 📌 Project Overview
 This project showcases an interactive Power BI dashboard designed for analyzing the sales performance of a chocolate company.
